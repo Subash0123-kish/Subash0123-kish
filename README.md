@@ -1,272 +1,290 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Subash+G;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Subash G</h1>
+
+<h3 align="center">Data Science • AI/ML • Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subash0123-kish&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/subash0123-kish?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/subash0123-kish?label=Total%20Stars&style=flat-square&color=0e75b6" alt="Total Stars" />
+  <a href="https://github.com/Subash0123-kish">
+    <img src="https://komarev.com/ghpvc/?username=subash0123-kish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Subash0123-kish?tab=followers">
+    <img src="https://img.shields.io/github/followers/Subash0123-kish?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Data Science graduate** with hands-on experience building **production-grade AI systems and full-stack applications**. My work bridges the gap between **machine learning research** and **real-world deployment**.
+I'm a **Data Science postgraduate and developer** passionate about building intelligent, data-driven and scalable applications.
 
-**Currently seeking:** Full-time opportunities in **Data Science**, **ML Engineering**, or **AI Engineering** across India.
+My interests span across **Data Science, Artificial Intelligence, Machine Learning, Generative AI and Full Stack Development**.
 
-### 🎯 What I Do
-- 🤖 **Generative AI** — Multi-agent systems, LLM pipelines, RAG implementations
-- 🧠 **Machine Learning** — Deep Learning, Computer Vision, NLP, Predictive Analytics
-- 💻 **Full Stack Development** — React.js, Node.js, Flask, REST APIs
-- ⚙️ **API Integration** — WhatsApp Business API, Twilio, Make.com, Groq
-- 📊 **Data Products** — Dashboard design, data visualization, analytics pipelines
-
----
-
-## 🎓 Education & Experience
-
-| 🎓 **Qualification** | 📍 **Institution** | 📅 **Duration** | 🏆 **CGPA** |
-|---|---|---|---|
-| M.Sc. Data Science | Vellore Institute of Technology | Jul 2024 – May 2026 | 8.33/10.0 |
-| B.Sc. Computer Science | Vellore Institute of Technology | Jul 2021 – May 2024 | 8.20/10.0 |
-
-### 💼 Internship Experience
-- **Full Stack Developer @ Vattara Solutions** (Dec 2025 – Apr 2026) — Built Pediatric WhatsApp automation system with Meta API
-- **Data Science Intern @ Soft Nexis Technology** (Sep – Oct 2025) — ML pipelines, preprocessing automation, BI dashboards
+* 🎓 M.Sc. Data Science — **VIT, Vellore**
+* 💻 B.Sc. Computer Science — **VIT, Vellore**
+* 🤖 Interested in **AI, Machine Learning, Generative AI & LLMs**
+* 📊 Passionate about **Data Analytics & Business Intelligence**
+* 🌐 Experienced in **Full Stack Web Development**
+* 🧠 Exploring **RAG, LLM applications and AI-powered systems**
+* 🚀 Always learning and building practical solutions
+* ⚽ Football enthusiast
+* 🎵 Music lover
 
 ---
 
-## 🏆 Featured Projects
+## 🎯 Current Focus
 
-### 1️⃣ **Deepfake Video Detection System**
-🔴 *ResNext CNN + LSTM on GCP | 94% Accuracy*
-
-- Hybrid deep learning architecture combining spatial (CNN) and temporal (LSTM) features
-- Trained on FaceForensics++ dataset, deployed on Google Cloud Platform
-- **94% accuracy** across 5,000+ video frames
-- **Tech:** PyTorch, TensorFlow, OpenCV, GCP, NumPy, Scikit-learn
-
-📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Accuracy: 94%** | ⭐ **Complexity: Advanced**
+* 🔭 Building **AI-powered applications and data-driven solutions**
+* 🌱 Learning **Generative AI, LLMs, RAG and advanced Machine Learning**
+* 👯 Open to collaborating on **AI/ML, Data Science and Full Stack projects**
+* 💬 Ask me about **Python, Data Science, Machine Learning, AI, React, Node.js, Flask and MongoDB**
+* 📌 Currently looking for opportunities in **Data Science, AI/ML, Software Development and Full Stack Development**
 
 ---
 
-### 2️⃣ **ResearchMind — Multi-Agent AI Research Assistant**
-🤖 *LLM-Powered Research Automation*
+## 🛠️ Tech Stack
 
-- Autonomous multi-agent system discovering, reading, and summarizing research papers
-- Integrated Groq API (Llama 3.3 70B) for fast LLM inference
-- Generates structured research reports with literature synthesis
-- **Tech:** LangChain, Groq API, Python, Streamlit, BeautifulSoup
+### 👨‍💻 Languages
 
-📂 [View Repository](https://github.com/Subash0123-kish) | 🚀 **Features: 5+** | ⭐ **Stars: Coming Soon**
-
----
-
-### 3️⃣ **Pediatric Appointment & WhatsApp Automation System**
-🏥 *Full-Stack Web App with Real-Time API Integration*
-
-- End-to-end system automating pediatric clinic workflows
-- Flask REST API with **4-level priority classification engine**
-- Meta WhatsApp Business API integration via Make.com webhooks
-- Twilio + Groq AI chatbot for patient self-service
-- **Bilingual UI** (Tamil + English)
-- **16 test scenarios** — 100% pass rate
-- **Tech:** Flask, SQLite, HTML/CSS/JS, Bootstrap, Meta WhatsApp API, Make.com, Twilio, Groq
-
-📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Tests Passed: 16/16** | 🌍 **Bilingual: Tamil + English**
-
----
-
-### 4️⃣ **AI Personal Decision Intelligence System**
-📊 *Streamlit App for AI-Powered Decision Making*
-
-- Interactive tool leveraging GPT for decision evaluation
-- Outcome comparison with weighted scoring
-- Personalized insights generation
-- **Tech:** Streamlit, LLM APIs, Python, Plotly
-
-📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Interactive: Yes** | ✨ **AI-Powered: Yes**
-
----
-
-### 5️⃣ **AI-Powered Business Intelligence Dashboard**
-📈 *Sales Forecasting & Analytics*
-
-- Facebook Prophet forecasting on 5,000+ sales records
-- A/B testing framework with interactive visualizations
-- Real-time KPI tracking and trend analysis
-- **Tech:** Python, Pandas, Prophet, Plotly, Scikit-learn, Power BI
-
-📂 [View Repository](https://github.com/Subash0123-kish) | 📊 **Data Points: 5000+** | 📈 **Forecasting: Prophet**
-
----
-
-## 📊 GitHub Analytics & Stats
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subash0123-kish&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=30B0C0" alt="Contribution Graph" />
-
-### 🎯 Repository Overview
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-6+-00D9FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Stars-15+-30B0C0?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Forks-5+-0077B5?style=for-the-badge&logo=github" />
-</div>
-
----
-
-## 💻 Tech Stack & Skills
-
-### 🔤 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash" />
 </p>
 
-### 🤖 AI/ML & Data Science
+### 🌐 Full Stack Development
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,flask" />
 </p>
 
-### 🌐 Frontend Development
+### 🤖 AI / Machine Learning
+
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### 🔧 Backend & Databases
+<p>
+  <strong>Libraries & Technologies:</strong>
+  Pandas • NumPy • Scikit-learn • OpenCV • Matplotlib • Seaborn • NLTK • LLMs • RAG
+</p>
+
+### 🗄️ Databases
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 📊 Data & Analytics
+
+<p>
+  Power BI • Tableau • Excel • Pandas • Matplotlib • Seaborn
+</p>
+
+### 🔧 Tools & Platforms
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=api&logoColor=white" />
-</p>
-
-### 🔌 APIs & Integrations
-<p align="left">
-  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq%20API-000000?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-9900FF?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" />
 </p>
 
 ---
 
-## 📚 Latest Work & Learning
+# 🚀 Featured Projects
 
-<details>
-<summary><b>🔄 Currently Working On</b></summary>
+<table>
+<tr>
+<td width="50%">
 
-- 🤖 **Generative AI Applications** — LLM pipelines, prompt engineering, RAG systems
-- 🏥 **Production ML Systems** — Scaling ML models for real-world use cases
-- 📊 **Advanced Data Analytics** — Time series forecasting, anomaly detection
-- 🔐 **API Security** — Webhook patterns, API authentication, secure integrations
+### 🤖 AI Personal Decision Intelligence System
 
-</details>
+AI-powered application focused on helping users make data-driven personal decisions using intelligent analysis.
 
-<details>
-<summary><b>📖 Currently Learning</b></summary>
+**Tech:** Python • AI • Machine Learning
 
-- 🧠 **Advanced LLM Techniques** — Fine-tuning, LORA, Retrieval-Augmented Generation
-- 🎯 **Multi-Agent AI Systems** — Autonomous workflows, agent orchestration
-- 📈 **Production ML** — Model serving, monitoring, scaling
-- ⚡ **Performance Optimization** — Query optimization, caching strategies
+<a href="https://github.com/Subash0123-kish/AI-Personal-Decision-Intelligence-System">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</details>
+</td>
+
+<td width="50%">
+
+### ✈️ Travel Management System
+
+Full-stack travel management platform with authentication, booking, reviews, maps and AI chatbot functionality.
+
+**Tech:** MongoDB • Express • React • Node.js
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 ResearchMind
+
+Multi-agent AI research assistant capable of searching, collecting and analyzing information from multiple sources.
+
+**Tech:** Python • Streamlit • Tavily • Groq • Llama
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎥 Deepfake Video Detection
+
+Deep learning system for detecting manipulated videos using spatial and temporal features.
+
+**Tech:** PyTorch • ResNeXt CNN • LSTM • OpenCV
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 AI-Powered BI Dashboard
+
+Interactive business intelligence dashboard with analytics and AI-powered forecasting.
+
+**Tech:** Python • Streamlit • Pandas • Prophet
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💳 Credit Card Fraud Risk Analysis
+
+Interactive analytics dashboard for exploring transaction patterns and fraud-related risk indicators.
+
+**Tech:** Power BI • Excel • Data Analytics
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-g-a9a16824b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black)](https://subash-portfolio.lovable.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subashgopi0105@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subash0123-kish)
-
-</div>
-
----
-
-## 💬 Ask Me About
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-brightgreen?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-Expert-brightgreen?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Advanced-blue?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Advanced-blue?style=flat-square)
-![API Integration](https://img.shields.io/badge/API%20Integration-Advanced-blue?style=flat-square)
-![React.js](https://img.shields.io/badge/React.js-Intermediate-yellow?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-Intermediate-yellow?style=flat-square)
-
-</div>
-
----
-
-## 📞 How to Reach Me
-
-| 📧 **Email** | 📱 **Phone** | 💼 **LinkedIn** | 🌐 **Portfolio** |
-|---|---|---|---|
-| [subashgopi0105@gmail.com](mailto:subashgopi0105@gmail.com) | +91 9342215834 | [LinkedIn Profile](https://linkedin.com/in/subash-g-a9a16824b) | [Portfolio](https://subash-portfolio.lovable.app) |
-
----
-
-## ⚡ Fun Facts
-
-- 🏃 I love playing **football** 🏀
-- 🎵 Music is my **constant companion** 🎧
-- 💡 I believe in **learning by building** — every project is a learning journey
-- 🚀 Passionate about **shipping code that solves real problems**
-- 📚 Always exploring **new technologies** and **AI research papers**
-
----
-
-## 📈 Repository Stats
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=Total%20Commits&message=500%2B&color=00D9FF&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?label=Code%20Languages&message=6&color=30B0C0&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?label=Projects&message=6%2B&color=0077B5&style=for-the-badge" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+amazing+things+together!;Always+open+to+collaborations+🚀" alt="Closing Message" />
-</div>
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Subash-00D9FF?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subash0123-kish&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash0123-kish&layout=compact&hide_border=true&border_radius=10&langs_count=8" height="180"/>
 </p>
 
 ---
 
-*Last updated: August 2026*
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Subash0123-kish&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subash0123-kish&hide_border=true&radius=10" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subash0123-kish&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+# 📌 GitHub Highlights
+
+<p align="center">
+
+<a href="https://github.com/Subash0123-kish?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Subash0123-kish?tab=stars">
+  <img src="https://img.shields.io/badge/View%20Starred%20Projects-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 🎓 Education
+
+### 🎓 M.Sc. Data Science
+
+**Vellore Institute of Technology (VIT), Vellore**
+
+**CGPA:** 8.33 / 10.0
+**2024 – 2026**
+
+### 🎓 B.Sc. Computer Science
+
+**Vellore Institute of Technology (VIT), Vellore**
+
+**CGPA:** 8.20 / 10.0
+**2021 – 2024**
+
+---
+
+# 💼 Career Interests
+
+I'm interested in opportunities involving:
+
+`Data Science` • `Machine Learning` • `Artificial Intelligence` • `Generative AI` • `Software Development` • `Full Stack Development` • `Data Analytics`
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/subash-g-a9a16824b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:subashgopi0105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://subash-portfolio.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Turning data, ideas and code into practical solutions.</i>
+</p>
