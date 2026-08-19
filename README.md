@@ -1,227 +1,283 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Subash+G;Data+Science+PostGraduate;AI%2FML+%26+Full+Stack+Developer;Passionate+about+Innovation" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Subash+G;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
+</h1>
 
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/subash-g-a9a16824b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:subashgopi0105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Subash0123-kish" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://subash-portfolio.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=subash0123-kish&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a passionate **Data Science postgraduate** and **Full Stack Developer** from India, specializing in:
-- 🤖 **Artificial Intelligence & Machine Learning** - Building intelligent systems and models
-- 📊 **Data Science** - EDA, Statistical Analysis, ML Pipeline Development
-- 💻 **Full Stack Development** - React, Node.js, TypeScript, Next.js
-- 🧠 **Generative AI & LLMs** - RAG Systems, Prompt Engineering, AI Applications
-
-Currently working on cutting-edge projects combining AI, data science, and web technologies to solve real-world problems.
-
----
-
-## 📊 GitHub Analytics & Statistics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subash0123-kish&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash0123-kish&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=subash0123-kish&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=subash0123-kish&theme=radical&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" alt="Contribution Activity Graph" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🚀 AI & Machine Learning
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|-----------|-------|
-| [**AI-Personal-Decision-Intelligence-System**](https://github.com/Subash0123-kish/AI-Personal-Decision-Intelligence-System) | Intelligent system for personalized decision-making using AI | Python, LLMs, RAG | ![GitHub stars](https://img.shields.io/github/stars/Subash0123-kish/AI-Personal-Decision-Intelligence-System?style=flat-square) |
-| [**ResearchMind**](https://github.com/Subash0123-kish) | Multi-Agent AI Research Assistant | LangChain, Groq, Llama 3.3, Tavily, Streamlit | ⭐⭐⭐ |
-| [**Deepfake Video Detection**](https://github.com/Subash0123-kish) | CNN+LSTM deep learning model for deepfake detection | TensorFlow, PyTorch, OpenCV | 94% Accuracy |
-
-### 🌐 Full Stack Development
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**ProjectFlow**](https://github.com/Subash0123-kish) | Modern project management web application | Next.js 14, Supabase, TypeScript |
-| [**Travel Management System**](https://github.com/Subash0123-kish) | End-to-end travel booking & management platform | React, Node.js, MongoDB, NLP Chatbot |
-| [**Sunlight UPVC Windows**](https://github.com/Subash0123-kish) | Professional landing page with lead capture system | HTML, CSS, JavaScript, Responsive Design |
-
-### 📱 AI-Powered Applications
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**LUMI WhatsApp Chatbot**](https://github.com/Subash0123-kish) | Intelligent chatbot for customer support | Node.js, TypeScript, Supabase, Groq AI, RAG |
-| [**Pediatric WhatsApp Appointment System**](https://github.com/Subash0123-kish) | Automated appointment booking system | Flask, SQLite, Twilio, Groq API |
-| [**AI-Powered BI Dashboard**](https://github.com/Subash0123-kish) | Interactive business intelligence dashboard | Streamlit, Prophet, Plotly |
-
-### 📊 Data Science Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**Healthcare CRM Module**](https://github.com/Subash0123-kish) | AI-First CRM for healthcare professionals | React, Redux Toolkit, FastAPI, LangGraph |
-| [**QR-Based Lead Capture System**](https://github.com/Subash0123-kish) | Interior design business lead management | Next.js 14, Supabase, TypeScript |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🐍 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subash0123-kish&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/subash0123-kish?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/subash0123-kish?label=Total%20Stars&style=flat-square&color=0e75b6" alt="Total Stars" />
 </p>
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+---
+
+## 🚀 About Me
+
+I'm a **Data Science graduate** with hands-on experience building **production-grade AI systems and full-stack applications**. My work bridges the gap between **machine learning research** and **real-world deployment**.
+
+**Currently seeking:** Full-time opportunities in **Data Science**, **ML Engineering**, or **AI Engineering** across India.
+
+### 🎯 What I Do
+- 🤖 **Generative AI** — Multi-agent systems, LLM pipelines, RAG implementations
+- 🧠 **Machine Learning** — Deep Learning, Computer Vision, NLP, Predictive Analytics
+- 💻 **Full Stack Development** — React.js, Node.js, Flask, REST APIs
+- ⚙️ **API Integration** — WhatsApp Business API, Twilio, Make.com, Groq
+- 📊 **Data Products** — Dashboard design, data visualization, analytics pipelines
+
+---
+
+## 🎓 Education & Experience
+
+| 🎓 **Qualification** | 📍 **Institution** | 📅 **Duration** | 🏆 **CGPA** |
+|---|---|---|---|
+| M.Sc. Data Science | Vellore Institute of Technology | Jul 2024 – May 2026 | 8.33/10.0 |
+| B.Sc. Computer Science | Vellore Institute of Technology | Jul 2021 – May 2024 | 8.20/10.0 |
+
+### 💼 Internship Experience
+- **Full Stack Developer @ Vattara Solutions** (Dec 2025 – Apr 2026) — Built Pediatric WhatsApp automation system with Meta API
+- **Data Science Intern @ Soft Nexis Technology** (Sep – Oct 2025) — ML pipelines, preprocessing automation, BI dashboards
+
+---
+
+## 🏆 Featured Projects
+
+### 1️⃣ **Deepfake Video Detection System**
+🔴 *ResNext CNN + LSTM on GCP | 94% Accuracy*
+
+- Hybrid deep learning architecture combining spatial (CNN) and temporal (LSTM) features
+- Trained on FaceForensics++ dataset, deployed on Google Cloud Platform
+- **94% accuracy** across 5,000+ video frames
+- **Tech:** PyTorch, TensorFlow, OpenCV, GCP, NumPy, Scikit-learn
+
+📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Accuracy: 94%** | ⭐ **Complexity: Advanced**
+
+---
+
+### 2️⃣ **ResearchMind — Multi-Agent AI Research Assistant**
+🤖 *LLM-Powered Research Automation*
+
+- Autonomous multi-agent system discovering, reading, and summarizing research papers
+- Integrated Groq API (Llama 3.3 70B) for fast LLM inference
+- Generates structured research reports with literature synthesis
+- **Tech:** LangChain, Groq API, Python, Streamlit, BeautifulSoup
+
+📂 [View Repository](https://github.com/Subash0123-kish) | 🚀 **Features: 5+** | ⭐ **Stars: Coming Soon**
+
+---
+
+### 3️⃣ **Pediatric Appointment & WhatsApp Automation System**
+🏥 *Full-Stack Web App with Real-Time API Integration*
+
+- End-to-end system automating pediatric clinic workflows
+- Flask REST API with **4-level priority classification engine**
+- Meta WhatsApp Business API integration via Make.com webhooks
+- Twilio + Groq AI chatbot for patient self-service
+- **Bilingual UI** (Tamil + English)
+- **16 test scenarios** — 100% pass rate
+- **Tech:** Flask, SQLite, HTML/CSS/JS, Bootstrap, Meta WhatsApp API, Make.com, Twilio, Groq
+
+📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Tests Passed: 16/16** | 🌍 **Bilingual: Tamil + English**
+
+---
+
+### 4️⃣ **AI Personal Decision Intelligence System**
+📊 *Streamlit App for AI-Powered Decision Making*
+
+- Interactive tool leveraging GPT for decision evaluation
+- Outcome comparison with weighted scoring
+- Personalized insights generation
+- **Tech:** Streamlit, LLM APIs, Python, Plotly
+
+📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Interactive: Yes** | ✨ **AI-Powered: Yes**
+
+---
+
+### 5️⃣ **AI-Powered Business Intelligence Dashboard**
+📈 *Sales Forecasting & Analytics*
+
+- Facebook Prophet forecasting on 5,000+ sales records
+- A/B testing framework with interactive visualizations
+- Real-time KPI tracking and trend analysis
+- **Tech:** Python, Pandas, Prophet, Plotly, Scikit-learn, Power BI
+
+📂 [View Repository](https://github.com/Subash0123-kish) | 📊 **Data Points: 5000+** | 📈 **Forecasting: Prophet**
+
+---
+
+## 📊 GitHub Analytics & Stats
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=subash0123-kish&theme=dark&background=0D1117&border=30B0C0&currStreakNum=00D9FF&sideNums=0077B5&currStreakLabel=00D9FF&sideLabels=0077B5&dates=0077B5&ring=00D9FF" alt="GitHub Streak" />
 </p>
 
-### 🔧 Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+### 📈 GitHub Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subash0123-kish&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=30B0C0&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash0123-kish&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Top Languages" />
+</div>
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subash0123-kish&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=30B0C0" alt="Contribution Graph" />
+
+### 🎯 Repository Overview
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-6+-00D9FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Stars-15+-30B0C0?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Forks-5+-0077B5?style=for-the-badge&logo=github" />
+</div>
+
+---
+
+## 💻 Tech Stack & Skills
+
+### 🔤 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+### 🔧 Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+### 🔌 APIs & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-000000?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-9900FF?style=for-the-badge&logo=make&logoColor=white" />
+</p>
+
+---
+
+## 📚 Latest Work & Learning
+
+<details>
+<summary><b>🔄 Currently Working On</b></summary>
+
+- 🤖 **Generative AI Applications** — LLM pipelines, prompt engineering, RAG systems
+- 🏥 **Production ML Systems** — Scaling ML models for real-world use cases
+- 📊 **Advanced Data Analytics** — Time series forecasting, anomaly detection
+- 🔐 **API Security** — Webhook patterns, API authentication, secure integrations
+
+</details>
+
+<details>
+<summary><b>📖 Currently Learning</b></summary>
+
+- 🧠 **Advanced LLM Techniques** — Fine-tuning, LORA, Retrieval-Augmented Generation
+- 🎯 **Multi-Agent AI Systems** — Autonomous workflows, agent orchestration
+- 📈 **Production ML** — Model serving, monitoring, scaling
+- ⚡ **Performance Optimization** — Query optimization, caching strategies
+
+</details>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-g-a9a16824b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=black)](https://subash-portfolio.lovable.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subashgopi0105@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subash0123-kish)
+
 </div>
 
 ---
 
-## 🎓 Current Focus
-
-- 🌱 **Learning**: Generative AI, LLMs, RAG Systems, Advanced Machine Learning, Full Stack Technologies & Cloud Technologies
-- 🔭 **Building**: AI-Personal-Decision-Intelligence-System
-- 👯 **Looking to Collaborate**: AI, Machine Learning & Full Stack Projects
-- 🤝 **Need Help With**: Generative AI, LLMs & RAG Implementation
-
----
-
-## 📈 My Statistics
+## 💬 Ask Me About
 
 <div align="center">
 
-| Metric | Count |
-|--------|-------|
-| 👨‍💻 Total Repositories | ![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/subash0123-kish&query=public_repos&label=Public%20Repos&style=flat-square&color=58a6ff) |
-| ⭐ Total Stars | ![GitHub Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/subash0123-kish&query=followers&label=Followers&style=flat-square&color=58a6ff) |
-| 🔗 Gists | Check out my [GitHub Gists](https://gist.github.com/Subash0123-kish) |
+![Python](https://img.shields.io/badge/Python-Expert-brightgreen?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-Expert-brightgreen?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Advanced-blue?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Advanced-blue?style=flat-square)
+![API Integration](https://img.shields.io/badge/API%20Integration-Advanced-blue?style=flat-square)
+![React.js](https://img.shields.io/badge/React.js-Intermediate-yellow?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-yellow?style=flat-square)
 
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 📞 How to Reach Me
+
+| 📧 **Email** | 📱 **Phone** | 💼 **LinkedIn** | 🌐 **Portfolio** |
+|---|---|---|---|
+| [subashgopi0105@gmail.com](mailto:subashgopi0105@gmail.com) | +91 9342215834 | [LinkedIn Profile](https://linkedin.com/in/subash-g-a9a16824b) | [Portfolio](https://subash-portfolio.lovable.app) |
+
+---
+
+## ⚡ Fun Facts
+
+- 🏃 I love playing **football** 🏀
+- 🎵 Music is my **constant companion** 🎧
+- 💡 I believe in **learning by building** — every project is a learning journey
+- 🚀 Passionate about **shipping code that solves real problems**
+- 📚 Always exploring **new technologies** and **AI research papers**
+
+---
+
+## 📈 Repository Stats
 
 <div align="center">
-
-**I'm always interested in:**
-- 🤝 Collaborating on innovative AI & ML projects
-- 💡 Discussing new ideas and technologies
-- 📚 Sharing knowledge and learning together
-- 🚀 Building products that make a difference
-
-**Feel free to reach out!**
-
-</div>
-
-<div align="center">
-
-📧 **Email**: subashgopi0105@gmail.com  
-💼 **Portfolio**: [https://subash-portfolio.lovable.app](https://subash-portfolio.lovable.app)  
-📄 **Resume**: [View my detailed experience](https://drive.google.com/file/d/1L-2rQLLCJGLSKTbR1gP9xKshLECNtg_n/view?usp=drive_link)  
-🎵 **Fun Fact**: I enjoy playing football and listening to music 🏃‍♂️🎵
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://img.shields.io/static/v1?label=Total%20Commits&message=500%2B&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Code%20Languages&message=6&color=30B0C0&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Projects&message=6%2B&color=0077B5&style=for-the-badge" />
 </div>
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Subash G</p>
-  <p>
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status: Active" />
-    <img src="https://img.shields.io/badge/Last%20Updated-2024-blue?style=flat-square" alt="Last Updated" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+amazing+things+together!;Always+open+to+collaborations+🚀" alt="Closing Message" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Subash-00D9FF?style=for-the-badge" />
+</p>
+
+---
+
+*Last updated: August 2026*
