@@ -105,17 +105,6 @@ I'm a **Data Science graduate** with hands-on experience building **production-g
 
 ## 📊 GitHub Analytics & Stats
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=subash0123-kish&theme=dark&background=0D1117&border=30B0C0&currStreakNum=00D9FF&sideNums=0077B5&currStreakLabel=00D9FF&sideLabels=0077B5&dates=0077B5&ring=00D9FF" alt="GitHub Streak" />
-</p>
-
-### 📈 GitHub Statistics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subash0123-kish&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=30B0C0&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash0123-kish&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Top Languages" />
-</div>
-
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subash0123-kish&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=30B0C0" alt="Contribution Graph" />
 
