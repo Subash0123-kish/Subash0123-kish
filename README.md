@@ -1,36 +1,290 @@
-<h1 align="center">Hi 👋, I'm Subash G I'm a Data Science postgraduate and developer passionate about AI, Machine Learning, and building data-driven applications.</h1>
-<h3 align="center">A passionate Data Science | AI/ML | Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Subash G</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subash0123-kish&label=Profile%20views&color=0e75b6&style=flat" alt="subash0123-kish" /> </p>
+<h3 align="center">Data Science • AI/ML • Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [AI-Personal-Decision-Intelligence-System](https://github.com/Subash0123-kish/AI-Personal-Decision-Intelligence-System)
-
-- 🌱 I’m currently learning **Generative AI, LLMs, RAG, Advanced Machine Learning, Full Stack Technologies & Cloud Technologies**
-
-- 👯 I’m looking to collaborate on **AI, Machine Learning & Full Stack Projects**
-
-- 🤝 I’m looking for help with **Generative AI, LLMs & RAG**
-
-- 👨‍💻 All of my projects are available at [https://subash-portfolio.lovable.app](https://subash-portfolio.lovable.app)
-
-- 💬 Ask me about **Python, Data Science, Machine Learning, AI, React, TypeScript, Node.js, Flask & MongoDB**
-
-- 📫 How to reach me **subashgopi0105@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L-2rQLLCJGLSKTbR1gP9xKshLECNtg_n/view?usp=drive_link](https://drive.google.com/file/d/1L-2rQLLCJGLSKTbR1gP9xKshLECNtg_n/view?usp=drive_link)
-
-- ⚡ Fun fact **I enjoy playing football and listening to music 🎵**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subash-g-a9a16824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subash-g-a9a16824b" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Subash0123-kish">
+    <img src="https://komarev.com/ghpvc/?username=subash0123-kish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Subash0123-kish?tab=followers">
+    <img src="https://img.shields.io/github/followers/Subash0123-kish?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash0123-kish&show_icons=true&locale=en&layout=compact" alt="subash0123-kish" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subash0123-kish&show_icons=true&locale=en" alt="subash0123-kish" /></p>
+I'm a **Data Science postgraduate and developer** passionate about building intelligent, data-driven and scalable applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash0123-kish&" alt="subash0123-kish" /></p>
+My interests span across **Data Science, Artificial Intelligence, Machine Learning, Generative AI and Full Stack Development**.
+
+* 🎓 M.Sc. Data Science — **VIT, Vellore**
+* 💻 B.Sc. Computer Science — **VIT, Vellore**
+* 🤖 Interested in **AI, Machine Learning, Generative AI & LLMs**
+* 📊 Passionate about **Data Analytics & Business Intelligence**
+* 🌐 Experienced in **Full Stack Web Development**
+* 🧠 Exploring **RAG, LLM applications and AI-powered systems**
+* 🚀 Always learning and building practical solutions
+* ⚽ Football enthusiast
+* 🎵 Music lover
+
+---
+
+## 🎯 Current Focus
+
+* 🔭 Building **AI-powered applications and data-driven solutions**
+* 🌱 Learning **Generative AI, LLMs, RAG and advanced Machine Learning**
+* 👯 Open to collaborating on **AI/ML, Data Science and Full Stack projects**
+* 💬 Ask me about **Python, Data Science, Machine Learning, AI, React, Node.js, Flask and MongoDB**
+* 📌 Currently looking for opportunities in **Data Science, AI/ML, Software Development and Full Stack Development**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash" />
+</p>
+
+### 🌐 Full Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,flask" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <strong>Libraries & Technologies:</strong>
+  Pandas • NumPy • Scikit-learn • OpenCV • Matplotlib • Seaborn • NLTK • LLMs • RAG
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+  Power BI • Tableau • Excel • Pandas • Matplotlib • Seaborn
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,gcp,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Personal Decision Intelligence System
+
+AI-powered application focused on helping users make data-driven personal decisions using intelligent analysis.
+
+**Tech:** Python • AI • Machine Learning
+
+<a href="https://github.com/Subash0123-kish/AI-Personal-Decision-Intelligence-System">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### ✈️ Travel Management System
+
+Full-stack travel management platform with authentication, booking, reviews, maps and AI chatbot functionality.
+
+**Tech:** MongoDB • Express • React • Node.js
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 ResearchMind
+
+Multi-agent AI research assistant capable of searching, collecting and analyzing information from multiple sources.
+
+**Tech:** Python • Streamlit • Tavily • Groq • Llama
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎥 Deepfake Video Detection
+
+Deep learning system for detecting manipulated videos using spatial and temporal features.
+
+**Tech:** PyTorch • ResNeXt CNN • LSTM • OpenCV
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 AI-Powered BI Dashboard
+
+Interactive business intelligence dashboard with analytics and AI-powered forecasting.
+
+**Tech:** Python • Streamlit • Pandas • Prophet
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💳 Credit Card Fraud Risk Analysis
+
+Interactive analytics dashboard for exploring transaction patterns and fraud-related risk indicators.
+
+**Tech:** Power BI • Excel • Data Analytics
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subash0123-kish&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash0123-kish&layout=compact&hide_border=true&border_radius=10&langs_count=8" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Subash0123-kish&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subash0123-kish&hide_border=true&radius=10" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subash0123-kish&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+# 📌 GitHub Highlights
+
+<p align="center">
+
+<a href="https://github.com/Subash0123-kish?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Subash0123-kish?tab=stars">
+  <img src="https://img.shields.io/badge/View%20Starred%20Projects-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 🎓 Education
+
+### 🎓 M.Sc. Data Science
+
+**Vellore Institute of Technology (VIT), Vellore**
+
+**CGPA:** 8.33 / 10.0
+**2024 – 2026**
+
+### 🎓 B.Sc. Computer Science
+
+**Vellore Institute of Technology (VIT), Vellore**
+
+**CGPA:** 8.20 / 10.0
+**2021 – 2024**
+
+---
+
+# 💼 Career Interests
+
+I'm interested in opportunities involving:
+
+`Data Science` • `Machine Learning` • `Artificial Intelligence` • `Generative AI` • `Software Development` • `Full Stack Development` • `Data Analytics`
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Subash0123-kish">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/subash-g-a9a16824b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:subashgopi0105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://subash-portfolio.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Turning data, ideas and code into practical solutions.</i>
+</p>
