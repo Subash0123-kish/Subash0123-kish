@@ -40,18 +40,6 @@ I'm a **Data Science graduate** with hands-on experience building **production-g
 
 ## 🏆 Featured Projects
 
-### 1️⃣ **Deepfake Video Detection System**
-🔴 *ResNext CNN + LSTM on GCP | 94% Accuracy*
-
-- Hybrid deep learning architecture combining spatial (CNN) and temporal (LSTM) features
-- Trained on FaceForensics++ dataset, deployed on Google Cloud Platform
-- **94% accuracy** across 5,000+ video frames
-- **Tech:** PyTorch, TensorFlow, OpenCV, GCP, NumPy, Scikit-learn
-
-📂 [View Repository](https://github.com/Subash0123-kish) | 🎯 **Accuracy: 94%** | ⭐ **Complexity: Advanced**
-
----
-
 ### 2️⃣ **ResearchMind — Multi-Agent AI Research Assistant**
 🤖 *LLM-Powered Research Automation*
 
